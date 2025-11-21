@@ -1,4 +1,4 @@
-# Large File Processor with Node.js Streams & CI/CD 🚀
+# Large File Processor with Node.js Streams & CI/CD
 
 Projeto desenvolvido para demonstrar o processamento eficiente de arquivos gigantes (CSV) utilizando **Node.js Streams**, garantindo baixo consumo de memória e alta performance.
 
